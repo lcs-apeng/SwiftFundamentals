@@ -14,12 +14,29 @@ str = "goodbye!"
 
 //take notes on the computr is fine as well. dont need to be on paper.
 
-//here is an example of what constants are;
+//here is an example of what string are;
 let taylor = "swift"
 //there can only be one value that can't be changed again.
 
 //here is an example of what a variable looks like;
-var str = "Hello, playground"
+str = "Hello, playground"
 //theres more than one variable, and can be changed.
+
+var age = 38
+
+//option+click on a variable or constant will tell you the datatype.
+
+//this is an example of a double.
+var pi = 3.141
+
+var awesome = true //this is a bool?
+
+//today i learned about string interpolation the ability to place variables inside your strings to make them more useful.
+//this is an example;
+
+var score = 85
+var str = "Your score was \(score)"
+//making string out of srings are like
+var results = "The test results are here: \(str)"
 
 
